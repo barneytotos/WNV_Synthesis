@@ -1,0 +1,138 @@
+Citation,Location,Vector_Species,Temperature_C,Virus_Genotype,Days_Post_Infection,Virus_Received_From,Receiving_Dose,Log_Dose,Receiving_Host,Sample_Size,Percent_Infected,Number_Infected
+Bolling et al 2012,"Fort Collins, Colorado",Culex pipiens,28,C,14,Sheep Blood,10000000,7,Immersion Oil,24,0.791666666666667,19
+Ciota et al 2013,Pennsylvania,Culex pipiens,27,C,14,Bovine Blood,1584893192.46111,9.2,Vero cells,70,0.836,57
+Ciota et al 2013,Pennsylvania,Culex quinquefasciatus,27,C,14,Bovine Blood,1584893192.46111,9.2,Vero cells,70,1,70
+Ciota et al 2013,Pennsylvania,Culex molestus,27,C,14,Bovine Blood,1584893192.46111,9.2,Vero cells,70,0.931,65
+Dodson et al. 2011,Pennsylvania,Culex tarsalis,27,C,14,Goose Blood,1584893192.46111,9.2,Vero cells,25,0.92,23
+Dodson et al. 2011,Pennsylvania,Culex tarsalis,27,C,14,Goose Blood,1000000000,9,Vero cells,50,0.72,36
+Dodson et al. 2011,Pennsylvania,Culex tarsalis,27,C,14,Goose Blood,630957344.480194,8.8,Vero cells,50,0.88,44
+Dodson et al. 2014,Yolo,Culex tarsalis,27,C,14,Bovine Blood,55000000,7.74036268949424,Vero cells,35,0.42685,15
+Ebel et al 2005,California,Culex pipiens,27,B,14,Goose Blood,50118723.3627272,7.7,Vero cells,795,0.141,112
+Ebel et al 2005,California,Culex restuans,27,B,14,Goose Blood,50118723.3627272,7.7,Vero cells,402,0.11,44
+Goddard et al 2002,California,Culex tarsalis,28,B,14,Rabbit Blood,12589254.1179417,7.1,Vero cells,1,1,1
+Goddard et al 2002,California,Culex tarsalis,28,B,14,Rabbit Blood,12589254.1179417,7.1,Vero cells,35,0.74,26
+Goddard et al 2002,California,Culex tarsalis,28,B,14,Rabbit Blood,12589254.1179417,7.1,Vero cells,55,0.85,47
+Goddard et al 2002,California,Culex quinquefasciatus,28,B,14,Rabbit Blood,12589254.1179417,7.1,Vero cells,50,0.58,29
+Goddard et al 2002,California,Culex quinquefasciatus,28,B,14,Rabbit Blood,12589254.1179417,7.1,Vero cells,58,0.28,16
+Goddard et al 2002,California,Culex quinquefasciatus,28,B,14,Rabbit Blood,12589254.1179417,7.1,Vero cells,50,0.66,33
+Goddard et al 2002,California,Culex pipiens,28,B,14,Rabbit Blood,12589254.1179417,7.1,Vero cells,31,1,31
+Goddard et al 2002,California,Culex stigmatosoma,28,B,14,Rabbit Blood,12589254.1179417,7.1,Vero cells,48,0.77,37
+Goddard et al 2002,California,Culex erythrothorax,28,B,14,Rabbit Blood,12589254.1179417,7.1,Vero cells,25,1,25
+Goddard et al 2002,California,Culex tarsalis,28,B,14,Rabbit Blood,79432.8234724282,4.9,Vero cells,11,0.36,4
+Goddard et al 2002,California,Culex tarsalis,28,B,14,Rabbit Blood,79432.8234724282,4.9,Vero cells,45,0.07,3
+Goddard et al 2002,California,Culex tarsalis,28,B,14,Rabbit Blood,79432.8234724282,4.9,Vero cells,10,0,0
+Goddard et al 2002,California,Culex quinquefasciatus,28,B,14,Rabbit Blood,79432.8234724282,4.9,Vero cells,50,0.1,5
+Goddard et al 2002,California,Culex quinquefasciatus,28,B,14,Rabbit Blood,79432.8234724282,4.9,Vero cells,55,0,0
+Goddard et al 2002,California,Culex pipiens,28,B,14,Rabbit Blood,79432.8234724282,4.9,Vero cells,35,0.23,8
+Goddard et al 2002,California,Culex stigmatosoma,28,B,14,Rabbit Blood,79432.8234724282,4.9,Vero cells,29,0.69,20
+Goddard et al 2002,California,Culex erythrothorax,28,B,14,Rabbit Blood,79432.8234724282,4.9,Vero cells,20,0.15,3
+Hanley et al 2005,California,Culex tarsalis,28,B,14,Rabbit Blood,3300000,6.51851393987789,Vero cells,40,0.46,18
+Reisen et al 2005,Coachella-WWDC,Culex tarsalis,26,B,14,House Finch,251188.643150958,5.4,Vero cells,21,0.9,19
+Reisen et al 2005,LA-Panaorama,Culex tarsalis,26,B,14,House Finch,794328.234724282,5.9,Vero cells,16,0.94,15
+Reisen et al 2005,Kern-KNWR,Culex tarsalis,26,B,14,House Sparrow,251188.643150958,5.4,Vero cells,17,0.94,16
+Reisen et al 2005,KNWR-c,Culex tarsalis,26,B,14,House Sparrow,19952623.1496888,7.3,Vero cells,40,1,40
+Reisen et al 2005,KNWR-c,Culex tarsalis,26,B,14,Chicken,1000000,6,Vero cells,40,0.2,8
+Reisen et al 2005,Kern-Bakersfield,Culex tarsalis,26,B,14,Chicken,501187.233627272,5.7,Vero cells,16,0.13,2
+Reisen et al 2005,Coachella-Indio,Culex quinquefasciatus,26,B,14,Chicken,100000,5,Vero cells,25,0.64,16
+Reisen et al 2005,LA-metro,Culex quinquefasciatus,26,B,14,Chicken,316227.766016838,5.5,Vero cells,25,0.6,15
+Reisen et al 2005,Kern-Bakersfield,Culex quinquefasciatus,26,B,14,Chicken,501187.233627272,5.7,Vero cells,25,0.4,10
+Reisen et al 2005,Kern-Bakersfield,Culex quinquefasciatus,26,B,14,Chicken,63095.7344480193,4.8,Vero cells,25,0.04,1
+Reisen et al 2005,Coachella-WWDC,Culex tarsalis,26,B,14,Avian Blood,6309573.44480193,6.8,Vero cells,22,0.68,15
+Reisen et al 2005,Coachella-Indio,Culex tarsalis,26,B,14,Avian Blood,1995262.31496888,6.3,Vero cells,25,0.36,9
+Reisen et al 2005,LA-Panaorama,Culex tarsalis,26,B,14,Avian Blood,630957.344480193,5.8,Vero cells,24,0.38,9
+Reisen et al 2005,Kern-KNWR,Culex tarsalis,26,B,14,Avian Blood,3981071.70553497,6.6,Vero cells,15,0.07,1
+Reisen et al 2005,Kern-Bakersfield,Culex tarsalis,26,B,14,Avian Blood,6309573.44480193,6.8,Vero cells,15,0.47,7
+Reisen et al 2005,Yolo,Culex tarsalis,26,B,14,Avian Blood,3981071.70553497,6.6,Vero cells,19,0.47,9
+Reisen et al 2005,COAV-c,Culex tarsalis,26,B,14,Avian Blood,3981071.70553497,6.6,Vero cells,18,0.89,16
+Reisen et al 2005,KNWR-c,Culex tarsalis,26,B,14,Avian Blood,3981071.70553497,6.6,Vero cells,25,0.56,14
+Reisen et al 2005,Coachella,Culex quinquefasciatus,26,B,14,Avian Blood,19952623.1496888,7.3,Vero cells,25,0.44,11
+Reisen et al 2005,LA-metro,Culex quinquefasciatus,26,B,14,Avian Blood,19952623.1496888,7.3,Vero cells,24,0.76,18
+Reisen et al 2005,LA-Machado Lake,Culex quinquefasciatus,26,B,14,Avian Blood,19952623.1496888,7.3,Vero cells,25,0.67,17
+Reisen et al 2005,LA-San Fernando,Culex quinquefasciatus,26,B,14,Avian Blood,19952623.1496888,7.3,Vero cells,19,0.44,8
+Reisen et al 2005,tars-COA,Culex tarsalis,26,B,14,Avian Blood,3162277.66016838,6.5,Vero cells,23,0.74,17
+Reisen et al 2005,tars-COA,Culex tarsalis,26,B,14,Avian Blood,316227.766016838,5.5,Vero cells,23,0.457,11
+Reisen et al 2005,tars-COA,Culex tarsalis,26,B,14,Avian Blood,31622.7766016838,4.5,Vero cells,23,0.132,3
+Reisen et al 2005,tars-COA,Culex tarsalis,26,B,14,Avian Blood,3162.27766016838,3.5,Vero cells,23,0.06,1
+Reisen et al 2005,tars-LA,Culex tarsalis,26,B,14,Avian Blood,3162277.66016838,6.5,Vero cells,23,0.386,9
+Reisen et al 2005,tars-LA,Culex tarsalis,26,B,14,Avian Blood,316227.766016838,5.5,Vero cells,23,0.245,6
+Reisen et al 2005,tars-LA,Culex tarsalis,26,B,14,Avian Blood,31622.7766016838,4.5,Vero cells,23,0.292,7
+Reisen et al 2005,tars-LA,Culex tarsalis,26,B,14,Avian Blood,3162.27766016838,3.5,Vero cells,23,0.062,1
+Reisen et al 2005,tars-Kern,Culex tarsalis,26,B,14,Avian Blood,3162277.66016838,6.5,Vero cells,23,0.783,18
+Reisen et al 2005,tars-Kern,Culex tarsalis,26,B,14,Avian Blood,316227.766016838,5.5,Vero cells,23,0.577,13
+Reisen et al 2005,tars-Kern,Culex tarsalis,26,B,14,Avian Blood,31622.7766016838,4.5,Vero cells,23,0.185,4
+Reisen et al 2005,tars-Kern,Culex tarsalis,26,B,14,Avian Blood,3162.27766016838,3.5,Vero cells,23,0.098,2
+Reisen et al 2005,quin_LA,Culex quinquefasciatus,26,B,14,Avian Blood,31622776.6016838,7.5,Vero cells,23,0.759,17
+Reisen et al 2005,quin_LA,Culex quinquefasciatus,26,B,14,Avian Blood,3162277.66016838,6.5,Vero cells,23,0.281,6
+Reisen et al 2005,quin_LA,Culex quinquefasciatus,26,B,14,Avian Blood,316227.766016838,5.5,Vero cells,23,0.19,4
+Reisen et al 2005,quin_LA,Culex quinquefasciatus,26,B,14,Avian Blood,31622.7766016838,4.5,Vero cells,23,0.128,3
+Reisen et al 2005,quin_LA,Culex quinquefasciatus,26,B,14,Avian Blood,3162.27766016838,3.5,Vero cells,23,0.004,0
+Reisen et al 2005,quin-Kern,Culex quinquefasciatus,26,B,14,Avian Blood,31622776.6016838,7.5,Vero cells,23,0.046,1
+Reisen et al 2005,quin-Kern,Culex quinquefasciatus,26,B,14,Avian Blood,3162277.66016838,6.5,Vero cells,23,0.004,0
+Reisen et al 2005,quin-Kern,Culex quinquefasciatus,26,B,14,Avian Blood,316227.766016838,5.5,Vero cells,23,0.001,0
+Reisen et al 2005,quin-Kern,Culex quinquefasciatus,26,B,14,Avian Blood,31622.7766016838,4.5,Vero cells,23,0.001,0
+Reisen et al 2005,stig-LA,Culex stigmatosoma,26,B,14,Avian Blood,3162277.66016838,6.5,Vero cells,23,0.901,21
+Reisen et al 2005,stig-LA,Culex stigmatosoma,26,B,14,Avian Blood,316227.766016838,5.5,Vero cells,23,0.414,10
+Reisen et al 2005,stig-LA,Culex stigmatosoma,26,B,14,Avian Blood,31622.7766016838,4.5,Vero cells,23,0.334,8
+Reisen et al 2005,stig-LA,Culex stigmatosoma,26,B,14,Avian Blood,3162.27766016838,3.5,Vero cells,23,0.053,1
+Reisen et al 2006b,Whittier,Culex quinquefasciatus,26,B,14,Bovine Blood,63095734.4480193,7.8,Vero cells,30,0.866666666666667,26
+Reisen et al 2006b,San Gabriel,Culex quinquefasciatus,26,B,14,Bovine Blood,2511886.43150958,6.4,Vero cells,30,0.766666666666667,23
+Reisen et al 2006b,Hansen Dam,Culex tarsalis,26,B,14,Bovine Blood,3162277.66016838,6.5,Vero cells,30,0.8,24
+Reisen et al 2006b,Hansen Dam,Culex stigmatosoma,26,B,14,Bovine Blood,3162277.66016838,6.5,Vero cells,22,0.909090909090909,20
+Reisen et al 2006b,Hansen Dam,Culex thriambus,26,B,14,Bovine Blood,3162277.66016838,6.5,Vero cells,16,0.8125,13
+Richards et al 2007,Florida,Culex pipiens,28,C,13,Bovine Blood,630957.344480193,5.8,Vero cells,108,0.51,47
+Richards et al 2007,Florida,Culex pipiens,28,C,13,Bovine Blood,25118.8643150958,4.4,Vero cells,104,0.05,5
+Richards et al 2007,Florida,Culex pipiens,28,C,13,Bovine Blood,5011.87233627273,3.7,Vero cells,118,0,0
+Richards et al 2014,Florida,Culex quinquefasciatus,28,B,14,Bovine Blood,79432823.4724282,7.9,Immersion Oil,20,0.95,19
+Richards et al 2014,Florida,Culex quinquefasciatus,28,B,14,Bovine Blood,79432823.4724282,7.9,Immersion Oil,20,1,20
+Richards et al 2014,Florida,Culex quinquefasciatus,28,C,14,Bovine Blood,79432823.4724282,7.9,Immersion Oil,20,1,20
+Richards et al 2014,Florida,Culex quinquefasciatus,28,C,14,Bovine Blood,79432823.4724282,7.9,Immersion Oil,20,1,20
+Richards et al 2014,Florida,Culex quinquefasciatus,28,C,14,Bovine Blood,79432823.4724282,7.9,Immersion Oil,20,1,20
+Sardelis and Turell 2001,Maryland,Culex pipiens,26,B,14,Chicken Blood,1000000,6,Vero cells,17,0.82,14
+Sardelis et al 2001,Indian River FL,Culex nigripalpus,26,B,14,Chicken,39810.7170553497,4.6,Chicken,7,0.29,2
+Sardelis et al 2001,Indian River FL,Culex nigripalpus,26,B,14,Chicken,501187.233627272,5.7,Chicken,132,0.78,103
+Sardelis et al 2001,Indian River FL,Culex nigripalpus,26,B,14,Chicken,6309573.44480193,6.8,Chicken,127,0.84,107
+Sardelis et al 2001,Sebring FL,Culex quinquefasciatus,26,B,14,Chicken,316227.766016838,5.5,Chicken,16,0.5,8
+Sardelis et al 2001,Sebring FL,Culex quinquefasciatus,26,B,14,Chicken,1000000,6,Chicken,78,0.91,71
+Sardelis et al 2001,Vero Beach FL,Culex quinquefasciatus,26,B,14,Chicken,100000,5,Chicken,13,0.46,6
+Sardelis et al 2001,Vero Beach FL,Culex quinquefasciatus,26,B,14,Chicken,1995262.31496888,6.3,Chicken,17,0.94,16
+Sardelis et al 2001,Maryland,Culex restuans,26,B,14,Chicken,3981071.70553497,6.6,Chicken,11,1,11
+Sardelis et al 2001,Chambers,Culex salinarius,26,B,14,Chicken,3981071.70553497,6.6,Chicken,20,0.95,19
+Tiawsirisup et al 2005,Iowa,Culex pipiens,27,B,14,Chicken,316.227766016838,2.5,Vero cells,25,0,0
+Tiawsirisup et al 2005,Iowa,Culex pipiens,27,B,14,Chicken,31622.7766016838,4.5,Vero cells,25,0.04,1
+Tiawsirisup et al 2005,Iowa,Culex pipiens,27,B,14,Chicken,100000,5,Vero cells,25,0.04,1
+Tiawsirisup et al 2005,Iowa,Culex pipiens,27,B,14,Chicken,316227.766016838,5.5,Vero cells,25,0.16,4
+Tiawsirisup et al 2005,Iowa,Culex pipiens,27,B,14,Chicken,3162277.66016838,6.5,Vero cells,13,0.77,10
+Tiawsirisup et al 2005,Iowa,Culex pipiens,27,B,14,Chicken,10000000,7,Vero cells,21,0.95,20
+Tiawsirisup et al 2005,Iowa,Culex pipiens,27,B,14,Chicken,31622776.6016838,7.5,Vero cells,25,0.96,24
+Tiawsirisup et al 2005,Iowa,Culex pipiens,27,B,14,Chicken,100000000,8,Vero cells,24,1,24
+Tiawsirisup et al 2005,Iowa,Culex pipiens,27,B,14,Chicken,316227766.016838,8.5,Vero cells,26,0.96,25
+Tiawsirisup et al 2005,Iowa,Culex pipiens,27,B,14,Chicken,3162277660.16838,9.5,Vero cells,19,1,19
+Turell et al 2000,New York,Culex pipiens,26,B,14,Chicken,158489.319246111,5.2,Chicken,46,0.17,8
+Turell et al 2000,New York,Culex pipiens,26,B,14,Chicken,15848931.9246111,7.2,Chicken,95,0.81,77
+Turell et al 2001,New York,Culex pipiens,26,B,14,Chicken,158489.319246111,5.2,Chicken,46,0.16,7
+Turell et al 2001,New York,Culex pipiens,26,B,14,Chicken,15848931.9246111,7.2,Chicken,83,0.81,67
+Vanlandingham et al 2004,Texas,Culex quinquefasciatus,26,C,14,Sheep Blood,79432823.4724282,7.9,Vero cells,23,1,23
+Vanlandingham et al 2007,Texas,Culex quinquefasciatus,26,C,14,Sheep Blood,33191738.1487512,7.52102999566398,Vero cells,30,1,30
+Vanlandingham et al 2008,Florida,Culex quinquefasciatus,26,C,14,Sheep Blood,158489319.246111,8.2,Vero cells,6,1,6
+Vanlandingham et al 2008,Florida,Culex quinquefasciatus,26,B,14,Sheep Blood,1659586.90743756,6.22,Vero cells,30,1,30
+Vanlandingham et al 2008,Florida,Culex quinquefasciatus,26,C,14,Sheep Blood,1659586.90743756,6.22,Vero cells,22,0.590909090909091,13
+Vanlandingham et al 2008,Florida,Culex quinquefasciatus,26,C,14,Sheep Blood,1659586.90743756,6.22,Vero cells,30,0.966666666666667,29
+Vanlandingham et al 2008,Florida,Culex quinquefasciatus,26,C,14,Sheep Blood,165958.690743756,5.22,Vero cells,26,0.961538461538462,25
+Vanlandingham et al 2008,Florida,Culex quinquefasciatus,26,C,14,Sheep Blood,165958.690743756,5.22,Vero cells,18,0.944444444444444,17
+Vanlandingham et al 2008,Florida,Culex quinquefasciatus,26,C,14,Sheep Blood,165958.690743756,5.22,Vero cells,30,0.566666666666667,17
+Vanlandingham et al 2008,Florida,Culex quinquefasciatus,26,B,14,Sheep Blood,44668.3592150963,4.65,Vero cells,30,0.9,27
+Vanlandingham et al 2008,Florida,Culex quinquefasciatus,26,C,14,Sheep Blood,16595.8690743756,4.22,Vero cells,20,0.75,15
+Vanlandingham et al 2008,Florida,Culex quinquefasciatus,26,C,14,Sheep Blood,16595.8690743756,4.22,Vero cells,30,0,0
+Vanlandingham et al 2008,Florida,Culex quinquefasciatus,26,C,14,Sheep Blood,4466.83592150963,3.65,Vero cells,24,0.5,12
+Vanlandingham et al 2008,Florida,Culex quinquefasciatus,26,C,14,Sheep Blood,4466.83592150963,3.65,Vero cells,30,0.166666666666667,5
+Vanlandingham et al 2008,Florida,Culex quinquefasciatus,26,B,14,Sheep Blood,1659.58690743756,3.22,Vero cells,30,0.133333333333333,4
+Vanlandingham et al 2008,Florida,Culex quinquefasciatus,26,C,14,Sheep Blood,446.683592150963,2.65,Vero cells,35,0.4,14
+Vanlandingham et al 2008,Florida,Culex quinquefasciatus,26,C,14,Sheep Blood,446.683592150963,2.65,Vero cells,30,0,0
+Vanlandingham et al 2008,Florida,Culex quinquefasciatus,26,C,14,Sheep Blood,165.958690743756,2.22,Vero cells,26,0.153846153846154,4
+Vanlandingham et al 2008,Florida,Culex quinquefasciatus,26,C,14,Sheep Blood,165.958690743756,2.22,Vero cells,24,0.0416666666666667,1
+Vanlandingham et al 2008,Florida,Culex quinquefasciatus,26,B,14,Sheep Blood,16.5958690743756,1.22,Vero cells,30,0.0666666666666667,2
+Vanlandingham et al 2008,Florida,Culex quinquefasciatus,26,C,14,Sheep Blood,1.65958690743756,0.22,Vero cells,18,0,0
+Worwa et al 2015,California,Culex tarsalis,26,B,14,Vero cells,10000000,7,Vero cells,30,0.43,13
+Worwa et al 2015,California,Culex tarsalis,26,C,14,Vero cells,10000000,7,Vero cells,29,0.59,17
+Worwa et al 2015,California,Culex tarsalis,26,C,14,Vero cells,10000000,7,Vero cells,30,0.8,24
+Worwa et al 2015,California,Culex tarsalis,26,C,14,Vero cells,10000000,7,Vero cells,30,0.7,21

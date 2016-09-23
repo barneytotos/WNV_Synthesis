@@ -1,0 +1,39 @@
+Titer_Profiles.csv and Bird_Survival.csv
+----------------------------------------
+
+Citation, Host_Species, Host_Family, Host_Order as labeled
+HS = Host Species as used in Stan model (All birds outside of the four focal passerines listed as “Other”)
+WNV_Strain, Virus_Isolate_Date as labeled
+Isolate_Location = Coarse spatial scale of virus isolate
+Virus_Genotype = Virus isolate binned into: (B) NY99, (C) WN02, (A and D) Other
+Virus_Dose = Dose of Virus injected into bird
+Host_Isolate_Location = Coarse spatial scale of location of bird isolation
+Sample_Size_Original = Original number of birds at the start of the study
+Sample_Size_Death = Birds left alive at day X
+Day, Survival as labeled
+
+Bird_to_Mosquito.csv
+--------------------
+
+Citation as labeled
+Location = Location given in original citation. For greater detail see associated citation
+Vector Species, Temperature_C as labeled
+Virus_Genotype = Virus isolate binned into: (B) NY99, (C) WN02
+Days_Post_Infection = Day the data was taken
+Virus_Received_From, Receiving_Dose, Log_Dose as labeled
+Receiving_Host = How virus was amplified (nearly all studies used the capillary tube method and amplified on Vero Cells)
+Sample_Size, Percent_Infected, Number_Infected as labeled
+
+Mosquito_to_Bird.csv
+--------------------
+
+Citation as labeled
+Location = Location given in original citation. For greater detail see associated citation
+Vector_Species, Temperature_C as labeled 
+Virus_Genotype = Virus isolate binned into: (B) NY99, (C) WN02
+Days_Post_Infection, Virus_Received_From, Receiving_Dose, Log_Dose, Receiving_Host the same as in Bird_to_Mosquito.CSV
+Percent_Infected and Number_Infected as labeled.
+Percent_Transmitting_Mean = percent transmitting as given in original publication
+Adjusted_Transmitting_Mean = percent transmitting conditioned on infected mosquitos
+Number_Transmitting_Mean = number transmitting from sample size using Adjusted_Transmitting_Mean
+Titer = titer in mosquitos
